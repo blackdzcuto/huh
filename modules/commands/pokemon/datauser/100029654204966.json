@@ -1,0 +1,27 @@
+{
+  "name": "Kiên Trần",
+  "ID": "100029654204966",
+  "pet": [
+    {
+      "name": "Lickitung",
+      "type": "Normal",
+      "HP": "36.0",
+      "Attack": "22.0",
+      "Defense": "30.0",
+      "Speed": "12.0",
+      "skill": [
+        "Own Tempo",
+        "Oblivious",
+        "Cloud Nine"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/108.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}
